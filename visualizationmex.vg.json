@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "background": "white",
   "padding": 5,
-  "width": 500,
-  "height": 350,
+  "width": 600,
+  "height": 450,
   "title": {
     "text": "Compare US, United Kingdom, Italy, France, Spain, Brazil, Belgium, Germany, Iran, Canada, Mexico death trajectory with Mexico",
     "frame": "group"
